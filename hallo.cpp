@@ -12,7 +12,7 @@ int main()
 	cout << "Wie heißt du?";
 	cin >> name;
 	cout << "Hallo " << name << endl;
-	
+	cout << "Ya Salame" << endl;
 	
 	
 	return 0;
